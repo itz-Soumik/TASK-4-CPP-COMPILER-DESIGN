@@ -53,3 +53,4 @@ Technologies Used:
 C++, Stack Data Structure, Standard Libraries
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/ffc82b80-523f-451c-96fb-a019a130657c)
